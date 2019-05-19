@@ -4,3 +4,16 @@
 # Hernández Mercado Gerson Guadalupe
 # Noveno cuatrimestre
 # Matricula 1634138
+Three or more...
+
+---
+
+Hyphens
+
+***
+
+Asterisks
+
+___
+
+Underscores
