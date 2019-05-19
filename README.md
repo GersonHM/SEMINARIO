@@ -1,5 +1,5 @@
 # SEMINARIO DE PROYECTOS
-Selector digital de basura...
+Selector digital de basura
 
 ---
 
@@ -16,14 +16,3 @@ Noveno cuatrimestre
 ___
 
 Matricula 1634138
-
-
-
-
-
-
-
-
-
-
-Underscores
