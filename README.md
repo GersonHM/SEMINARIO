@@ -1,19 +1,29 @@
 # SEMINARIO DE PROYECTOS
-# Selector digital de basura
-# Ingeniería en Electrónica y Telecomunicaciones
-# Hernández Mercado Gerson Guadalupe
-# Noveno cuatrimestre
-# Matricula 1634138
-Three or more...
+Selector digital de basura...
 
 ---
 
-Hyphens
+Ingeniería en Electrónica y Telecomunicaciones
 
 ***
 
-Asterisks
+Hernández Mercado Gerson Guadalupe
+
+---
+
+Noveno cuatrimestre
 
 ___
+
+Matricula 1634138
+
+
+
+
+
+
+
+
+
 
 Underscores
